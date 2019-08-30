@@ -3,7 +3,6 @@
     <tr>
       <th>Type</th>
       <th>Item</th>
-      <th>Price</th>
     </tr>
   </thead>
   <tbody>
